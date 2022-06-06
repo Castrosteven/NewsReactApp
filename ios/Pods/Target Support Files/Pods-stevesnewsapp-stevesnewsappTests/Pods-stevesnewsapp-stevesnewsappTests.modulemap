@@ -1,0 +1,6 @@
+module Pods_stevesnewsapp_stevesnewsappTests {
+  umbrella header "Pods-stevesnewsapp-stevesnewsappTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
